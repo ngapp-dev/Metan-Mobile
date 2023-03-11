@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Preferences -->
+    <string name="app_exit_label">Націсніце НАЗАД яшчэ раз, каб выйсці</string>
+
+    <!-- Toolbar -->
+    <string name="toolbar_profile_title">Ваш профіль</string>
+    <string name="toolbar_contacts_title">Кантакты</string>
+    <string name="toolbar_legal_regulations_title">Прававыя нормы</string>
+    <string name="toolbar_calculators_title">Разлічыць выгаду</string>
+    <string name="toolbar_pinned_news_title">Замацаваныя</string>
+    <string name="toolbar_favorites_title">Выбранае</string>
+    <string name="toolbar_settings_title">Налады</string>
+    <string name="toolbar_app_language_title">Мова дадатка</string>
+    <string name="toolbar_about_title">Пра дадатак</string>
+    <string name="toolbar_faq_title">Частыя пытанні</string>
+    <string name="toolbar_cabinet_title">Кабінет</string>
+    <string name="toolbar_terms_and_conditions_title">Нарматыўныя акты</string>
+    <string name="toolbar_privacy_policy_title">Палітыка прыватнасці</string>
+    <string name="toolbar_software_licence_title">Ліцэнзія на праграмнае забеспячэнне</string>
+    <string name="toolbar_location_information_title">Информация о местоположении</string>
+
+    <!-- BottomBar -->
+    <string name="bottom_menu_home">Галоўная</string>
+    <string name="bottom_menu_stations">Запраўкі</string>
+    <string name="bottom_menu_news">Навіны</string>
+    <string name="bottom_menu_favorites">Выбранае</string>
+
+    <!-- Title -->
+    <string name="title_all_news">Усе навіны</string>
+    <string name="title_related_news">Навіны па тэме</string>
+    <string name="title_stations_map">Карта станцый</string>
+    <string name="title_station_list">Спіс станцый</string>
+    <string name="title_calculate_profit">Разлічыце выгаду</string>
+    <string name="title_calculate_milage">Прабег</string>
+    <string name="title_calculate_payback">Акупнасць</string>
+    <string name="title_contacts_info">Кантакты для інфармацыі</string>
+    <string name="title_how_do_we_use_location">Як мы выкарыстоўваем інфармацыю аб вашым месцазнаходжанні?</string>
+    <string name="title_filter_stations">Фільтр станцый</string>
+    <string name="title_filter_and_sort">Фільтраванне і сартаванне</string>
+
+    <!-- Text -->
+    <string name="text_no_data_found">Прыдатныя дадзеныя не знойдзеныя.</string>
+    <string name="text_new">Новае</string>
+    <string name="text_delete_favor_description">Выконваючы гэтую аперацыю, вы пацвярджаеце адмену рэгістрацыі %s?</string>
+    <string name="text_delete_profile_description">Выконваючы гэтую аперацыю, вы пацвярджаеце адмену рэгістрацыі %s?</string>
+    <string name="text_approve_remove">Пацвердзіць выдаленне</string>
+    <string name="text_favor_delete">Выдаліць з Выбраных</string>
+    <string name="text_profile_delete">Выдаліць профіль</string>
+    <string name="text_theme_mode">Рэжым паказу</string>
+    <string name="text_app_language">Мова дадатка</string>
+    <string name="text_about">Пра дадатак</string>
+    <string name="text_legal_regulations">Прававыя нормы</string>
+    <string name="text_station_phones">Тэлефоны</string>
+    <string name="text_station_attendance">Наведвальнасць сёння</string>
+    <string name="text_station_payments">Метады аплаты</string>
+    <string name="text_station_address">Адрас</string>
+    <string name="text_station_hours">Час працы</string>
+    <string name="text_select_application">Выберыце дадатак</string>
+    <string name="text_faq">Частыя пытанні</string>
+    <string name="text_contacts">Кантакты</string>
+    <string name="text_calculators">Калькулятары</string>
+    <string name="text_hello_user">Прывітанне, %s</string>
+    <string name="text_today_date">Сёння, %s</string>
+    <string name="text_share_via">&#160;- Падзяліцца праз&#160;</string>
+    <string name="text_location_explanation">Мэтай збору дадзеных аб вашым месцазнаходжанні з\'яўляецца выкарыстанне функцыі вызначэння месцазнаходжання станцый.  Каб мы маглі вызначыць, якія газанапаўняльныя станцыі знаходзяцца паблізу, нам трэба вызначыць ваша месцазнаходжанне і ў выніку даць вам дадзеныя аб бліжэйшай станцыі.</string>
+    <string name="text_google_service_unavailable">Сэрвісы Google недаступныя</string>
+    <string name="text_value_km">%s км</string>
+    <string name="text_value_byn">%s руб.</string>
+    <string name="text_cng_price">Кошт метану</string>
+    <string name="text_nearest_station">Бліжэйшая станцыя</string>
+    <string name="text_or">АБО</string>
+    <string name="text_values_error">Калі ласка, праверце ўведзеныя значэнні</string>
+    <string name="text_view_profile">Паглядзець профіль</string>
+    <string name="text_payback_calc_note">1 л бензіну эквівалентны расходу 1 м3 прыроднага газу</string>
+    <string name="text_value_month">%s месяцаў</string>
+    <string name="text_value_month1">%s месяц</string>
+    <string name="text_value_month2_4">%s месяцы</string>
+    <string name="text_car_personal">Легкавы</string>
+    <string name="text_car_truck">Мікрааўтобус</string>
+    <string name="text_car_lorry">Грузавы</string>
+    <string name="text_enter_refill_amount">Увядзіце планаваную суму для запраўкі, BYN</string>
+    <string name="text_choose_car_type">Выберыце тып аўтамабіля</string>
+    <string name="text_fuel_price_by_vehicle">Кошт паліва, якая выкарыстоўваецца базавай мадэллю аўтамабілем, BYN</string>
+    <string name="text_additional_costs">Дадатковыя выдаткі на мантаж ГБО ці розніца ў кошце з базавай мадэллю аўтамабіля, BYN</string>
+    <string name="text_estimated_vehicle_milage">Меркаваны прабег у год, км</string>
+    <string name="text_vehicle_consumption">Лінейны выдатак аўтамабіля, л/100км</string>
+    <string name="text_car_milage_amount">Прабег аўтамабіля на суму %s BYN</string>
+    <string name="text_cng">Метан</string>
+    <string name="text_dt">Дызель</string>
+    <string name="text_ai95">АИ-95</string>
+    <string name="text_ai92">АИ-92</string>
+    <string name="text_lpg">Прапан</string>
+    <string name="text_on_cng">на метане</string>
+    <string name="text_on_dt">на дызпаліве</string>
+    <string name="text_on_ai95">на бензіне АИ-95</string>
+    <string name="text_on_ai92">на бензіне АИ-92</string>
+    <string name="text_on_lpg">на прапане</string>
+    <string name="text_clfs">БЗП</string>
+    <string name="text_items_display">Выберыце элементы для паказу</string>
+    <string name="text_sort_by">Сартаваць па</string>
+    <string name="text_agnks">АГНКС</string>
+    <string name="text_android_developer">Android-распрацоўшчык</string>
+    <string name="text_developed_by">Распрацавана</string>
+
+    <!-- Button -->
+    <string name="button_search">Пошук</string>
+    <string name="button_close">Зачыніць</string>
+    <string name="button_retry">Паўтарыць</string>
+    <string name="button_cancel">Адмена</string>
+    <string name="button_show_all">Паказаць усе</string>
+    <string name="button_show_less">Паказаць менш</string>
+    <string name="button_show_more">Паказаць больш</string>
+    <string name="button_google_service_update">Абнавіць</string>
+    <string name="button_navigate">Пракласці маршрут</string>
+    <string name="button_calculate">Разлічыць</string>
+    <string name="button_calculate_again">Разлічыць зноў</string>
+    <string name="button_update_profile">Абнавіць профіль</string>
+    <string name="button_apply">Прымяніць</string>
+    <string name="button_name">Імя</string>
+    <string name="button_date">Даце</string>
+    <string name="button_descending">Па змяншэнні</string>
+    <string name="button_ascending">Па ўзрастанні</string>
+    <string name="button_distance">Дыстанцыі</string>
+    <string name="button_open_in_browser">Адкрыць у браўзэры</string>
+    <string name="button_how_to_get_access">Як атрымаць доступ?</string>
+
+    <!-- Placeholder -->
+    <string name="placeholder_number">Увядзіце значэнне</string>
+    <string name="placeholder_firstname">Увядзіце імя</string>
+    <string name="placeholder_lastname">Увядзіце сваё прозвішча</string>
+    <string name="placeholder_clear_search">Вычысціць пошук</string>
+    <string name="placeholder_search_news">Пошук навін</string>
+    <string name="placeholder_search_stations">Пошук станцый</string>
+    <string name="placeholder_search_favorites">Пошук выбраных</string>
+
+    <!-- Permission -->
+    <string name="permission_button_request">Запрасіць дазвол</string>
+    <string name="permission_rationale">Дазвол на вызначэнне месцазнаходжання неабходна для ўключэння функцыі пошуку і адлюстравання бліжэйшых газанапаўняльных станцый.</string>
+    <string name="permission_text_denied">Дазвол быў адхілены</string>
+    <string name="permission_denied_explanation">Дазвол быў адхілены, пошук бліжэйшых станцый недаступны</string>
+    <string name="permission_button_confirm">Пацвердзіць</string>
+    <string name="permission_button_settings">Налады</string>
+    <string name="permission_button_allow">Разрешить разрешеДазволіць дазволние</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_button_get_start">Пачаць</string>
+    <string name="onboarding_title_news">Навіны</string>
+    <string name="onboarding_title_stations">Газанапаўняльныя станцыі</string>
+    <string name="onboarding_title_favorites">Выбранае</string>
+    <string name="onboarding_description_news">Вы можаце атрымаць доступ да зместу і спісу навін.</string>
+    <string name="onboarding_description_stations">Вы можаце знайсці бліжэйшую газанапаўняльную станцыю, а таксама атрымаць доступ да іх спісу і навінам па тэме.</string>
+    <string name="onboarding_description_favorites">Вы можаце стварыць свой спіс Выбраных станцый, каб не забыць і хутка да іх вяртацца.</string>
+</resources>

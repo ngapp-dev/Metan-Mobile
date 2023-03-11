@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name" translatable="false">Metan Mobile</string>
+
+    <!-- Preferences -->
+    <string name="pref_theme_light_value" translatable="false">light</string>
+    <string name="pref_theme_dark_value" translatable="false">dark</string>
+    <string name="pref_theme_system_value" translatable="false">system</string>
+    <string name="pref_theme_default_value" translatable="false">@string/pref_theme_system_value</string>
+    <string name="pref_language_belarusian" translatable="false">Беларускі</string>
+    <string name="pref_language_russian" translatable="false">Русский</string>
+    <string name="pref_language_english" translatable="false">English</string>
+    <string name="app_exit_label">Press BACK again to exit</string>
+
+    <!-- Toolbar -->
+    <string name="toolbar_cabinet_title">Cabinet</string>
+    <string name="toolbar_pinned_news_title">Pinned</string>
+    <string name="toolbar_favorites_title">Favorites</string>
+    <string name="toolbar_settings_title">Settings</string>
+    <string name="toolbar_profile_title">User Profile</string>
+    <string name="toolbar_faq_title">FAQ</string>
+    <string name="toolbar_contacts_title">Contacts</string>
+    <string name="toolbar_calculators_title">Calculate The Profit</string>
+    <string name="toolbar_app_language_title">Application Language</string>
+    <string name="toolbar_about_title">About</string>
+    <string name="toolbar_legal_regulations_title">Legal Regulations</string>
+    <string name="toolbar_terms_and_conditions_title"><![CDATA[Terms & Conditions]]></string>
+    <string name="toolbar_privacy_policy_title">Privacy Policy</string>
+    <string name="toolbar_software_licence_title">Software License</string>
+    <string name="toolbar_location_information_title">Location Information</string>
+
+    <!-- BottomBar -->
+    <string name="bottom_menu_home">Home</string>
+    <string name="bottom_menu_stations">Stations</string>
+    <string name="bottom_menu_news">News</string>
+    <string name="bottom_menu_favorites">Favorites</string>
+
+    <!-- Title -->
+    <string name="title_all_news">All news</string>
+    <string name="title_related_news">Related news</string>
+    <string name="title_station_list">Station List</string>
+    <string name="title_stations_map">Station Map</string>
+    <string name="title_calculate_profit">Calculate the profit</string>
+    <string name="title_calculate_milage">Mileage</string>
+    <string name="title_calculate_payback">Payback</string>
+    <string name="title_contacts_info">Contacts for information</string>
+    <string name="title_how_do_we_use_location">How do we use your location information?</string>
+    <string name="title_filter_stations">Filter stations</string>
+    <string name="title_filter_and_sort">Filter and sort stations</string>
+
+    <!-- Text -->
+    <string name="text_faq">FAQ</string>
+    <string name="text_contacts">Contacts</string>
+    <string name="text_calculators">Calculators</string>
+    <string name="text_theme_mode">Theme Mode</string>
+    <string name="text_app_language">App Language</string>
+    <string name="text_about">About</string>
+    <string name="text_legal_regulations">Legal Regulations</string>
+    <string name="text_no_data_found">No suitable data found.</string>
+    <string name="text_new">New</string>
+    <string name="text_delete_favor_description">Performing this operation, do you approve the deregistration of %s?</string>
+    <string name="text_delete_profile_description">Performing this operation, do you approve the deregistration of %s?</string>
+    <string name="text_approve_remove">Approve Remove</string>
+    <string name="text_favor_delete">Favorite Delete</string>
+    <string name="text_profile_delete">Profile Delete</string>
+    <string name="text_station_phones">Phones</string>
+    <string name="text_station_attendance">Attendance today</string>
+    <string name="text_station_payments">Payments</string>
+    <string name="text_station_address">Address</string>
+    <string name="text_station_hours">Hours</string>
+    <string name="text_select_application">Select application</string>
+    <string name="text_hello_user">Hello, %s</string>
+    <string name="text_today_date">Today, %s</string>
+    <string name="text_share_via">&#160;- Share via&#160;</string>
+    <string name="text_location_explanation">The purpose of collecting your location data is to enable the use of the station locator feature.\n\nSo we can determine which Gas stations are nearby, we need to identify your location and provide you with a route to the nearest Gas station as a result.</string>
+    <string name="text_google_service_unavailable">Google services unavailable</string>
+    <string name="text_value_km">%s KM</string>
+    <string name="text_value_month1">%s month</string>
+    <string name="text_value_month2_4">%s month</string>
+    <string name="text_value_month">%s month</string>
+    <string name="text_value_byn">%s BYN</string>
+    <string name="text_cng_price">CNG price</string>
+    <string name="text_nearest_station">Nearest station</string>
+    <string name="text_or">OR</string>
+    <string name="text_values_error">Please check the entered values</string>
+    <string name="text_view_profile">View profile</string>
+    <string name="text_payback_calc_note">1L of benzine is equivalent in consumption of 1 m3 of natural gas</string>
+    <string name="text_car_personal">Personal</string>
+    <string name="text_car_truck">Truck</string>
+    <string name="text_car_lorry">Lorry</string>
+    <string name="text_enter_refill_amount">Enter the planned refill amount, BYN</string>
+    <string name="text_choose_car_type">Choose car type</string>
+    <string name="text_fuel_price_by_vehicle">Fuel price used by vehicle, BYN</string>
+    <string name="text_additional_costs">Additional costs for installation of CNG equipment or difference in price with a basic vehicle model, BYN</string>
+    <string name="text_estimated_vehicle_milage">Estimated vehicle mileage per year, km</string>
+    <string name="text_vehicle_consumption">Vehicle linear fuel consumption, l/100km</string>
+    <string name="text_car_milage_amount">Car mileage in the amount of %s BYN</string>
+    <string name="text_cng">CNG</string>
+    <string name="text_dt">Diesel</string>
+    <string name="text_ai95">RON 95</string>
+    <string name="text_ai92">RON 92</string>
+    <string name="text_lpg">LPG</string>
+    <string name="text_on_cng">on CNG</string>
+    <string name="text_on_dt">on diesel</string>
+    <string name="text_on_ai95">on RON 95 gasoline</string>
+    <string name="text_on_ai92">on RON 92 gasoline</string>
+    <string name="text_on_lpg">on LPG</string>
+    <string name="text_items_display">Select items to display</string>
+    <string name="text_sort_by">Sort by</string>
+    <string name="text_agnks">CNG</string>
+    <string name="text_clfs">CLFS</string>
+    <string name="text_android_developer">Android Developer</string>
+    <string name="text_developed_by">Developed By</string>
+
+    <!-- Button -->
+    <string name="button_search">Search</string>
+    <string name="button_close">Close</string>
+    <string name="button_show_more">Show more</string>
+    <string name="button_show_less">Show less</string>
+    <string name="button_show_all">Show All</string>
+    <string name="button_google_service_update">Update</string>
+    <string name="button_navigate">Navigate</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="button_calculate_again">Calculate again</string>
+    <string name="button_update_profile">Update profile</string>
+    <string name="button_retry">Retry</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_apply">Apply</string>
+    <string name="button_name">Name</string>
+    <string name="button_date">Date</string>
+    <string name="button_descending">Descending</string>
+    <string name="button_ascending">Ascending</string>
+    <string name="button_distance">Distance</string>
+    <string name="button_open_in_browser">Open in browser</string>
+    <string name="button_how_to_get_access">How to get access?</string>
+
+    <!-- Placeholder -->
+    <string name="placeholder_number">Enter value</string>
+    <string name="placeholder_firstname">Enter your name</string>
+    <string name="placeholder_lastname">Enter your surname</string>
+    <string name="placeholder_clear_search">Clear search</string>
+    <string name="placeholder_search_news">Search news</string>
+    <string name="placeholder_search_stations">Search stations</string>
+    <string name="placeholder_search_favorites">Search favorites</string>
+
+    <!-- Permission -->
+    <string name="permission_button_request">Request permission</string>
+    <string name="permission_rationale">Location permission is required to enable the search function and display nearby gas filling stations.</string>
+    <string name="permission_text_denied">Permission was denied</string>
+    <string name="permission_denied_explanation">Permission was denied, station locator not available.</string>
+    <string name="permission_button_confirm">Confirm</string>
+    <string name="permission_button_settings">Settings</string>
+    <string name="permission_button_allow">Allow permission</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_button_get_start">Get Started</string>
+    <string name="onboarding_title_news">News</string>
+    <string name="onboarding_title_stations">Stations</string>
+    <string name="onboarding_title_favorites">Favorites</string>
+    <string name="onboarding_description_news">You can access the content and news list.</string>
+    <string name="onboarding_description_stations">You can find the nearest gas filling station, as well as access their list and related news.</string>
+    <string name="onboarding_description_favorites">You can create your own list of Favorite stations so that you don\'t forget and return to them quickly.</string>
+</resources>
